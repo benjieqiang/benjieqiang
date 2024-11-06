@@ -1,9 +1,5 @@
 ### Hi there👋, I'm [Ben](https://benjieqiang.github.io/).
-I am a Java backend developer with 3 years of experience in software development. I possess the capability to independently handle project module development. I have expertise in popular open-source frameworks such as Spring, Spring MVC, Spring Boot, Spring Security, and Spring Data JPA. Additionally, I have integrated Spring Data JPA with Redis for efficient data management.
-
-Moreover, I am proficient in working with various databases including MySQL, Oracle, and MongoDB, with MySQL being frequently utilized in projects. Furthermore, I have experience with middleware technologies such as RabbitMQ, Kafka, Elasticsearch, Redis, Nginx, and ZooKeeper. While I may not be a specialist in developing these middleware technologies, I have extensively used them in various projects, especially Redis and message queues (MQ).
-
-Overall, I bring a comprehensive skill set in Java backend development along with expertise in integrating various technologies to build robust and scalable solutions.
+4 years of expertise in backend development, specializing in Java, SpringBoot, MySQL, and RabbitMQ. Extensive experience in building scalable, high-performance systems and implementing CI/CD pipelines, DevOps practices, and Cloud solutions. Skilled in delivering projects within Agile environments, optimizing code quality, and ensuring timely, efficient project delivery.
 
 I am an enthusiast for exploring new technologies, a dedicated learner, and an innate problem-solver. When I'm not immersed in coding, you'll often find me engrossed in tech-related YouTube videos, nurturing my curiosity.
 
